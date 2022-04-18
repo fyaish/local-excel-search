@@ -1,2 +1,7 @@
-# local-excel-search
-Faceted search for excel locally in the browser
+# clientside-instantsearch-demo-main
+ excel search with react instant search
+
+npm install
+
+
+npm run dev
